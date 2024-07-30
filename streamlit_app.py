@@ -147,7 +147,7 @@ elif page == "🛠️ Manage Items":
 
 elif page == "📈 Sales Forecasting":
     st.title("Sales Forecasting")
-    st.write("Access the sales forecasting tool [here](https://salesforecastak.streamlit.app/)")
+    st.write("Access the sales forecasting tool [here](https://salesforecastagk.streamlit.app/)")
 
 elif page == "📊 Sales Details":
     st.title("Sales Details")
